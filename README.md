@@ -16,6 +16,7 @@ Google is also using different colors depending on the platform.
   - api_color: Color returned by the api
   - web_color: Color used on https://calendar.google.com/
   - android_color: Color used on the android app
+- 2 versions available : English and French
 
  ## Thanks to 
  ansaso that listed all the colorIds https://gist.github.com/ansaso/accaddab0892a3b47d5f4884fda0468b
