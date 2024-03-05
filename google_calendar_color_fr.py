@@ -2,7 +2,7 @@ from enum import Enum
 
 class ColorType(Enum):
   COLOR_TYPE_CALENDAR = 0
-  COLOR_TYPE_EVENT = 0
+  COLOR_TYPE_EVENT = 1
 
 class CalendarColor(Enum):
   CACAO = 1
